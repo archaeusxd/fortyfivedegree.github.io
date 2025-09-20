@@ -1,1 +1,3 @@
 # fortyfivedegree.github.io
+
+this was the very first website i created during my first year of college, yuhooo! we were asked to upload it on GitHub, and honestly, i had no clue what i was doing. please don’t judge (⁠｡⁠•́⁠︿⁠•̀⁠｡⁠). i never even saw myself becoming a computer engineer at that time. from psychology to computer engineering. what a turn of events, lol! looking back now, it’s really funny.
